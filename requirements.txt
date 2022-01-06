@@ -1,4 +1,6 @@
 beautifulsoup4
+google-cloud-texttospeech
 lxml
 pandas
 requests
+tqdm

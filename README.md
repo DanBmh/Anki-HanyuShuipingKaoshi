@@ -32,7 +32,7 @@ Das Deck baut auf folgenden Quellen auf:
 * Zeit für nächste Wiederholung ausblenden (Anki->Extras->Einstellungen->Einfach)
 * Zähler für verbleibende Karten ausblenden (Anki->Extras->Einstellungen->Einfach)
 * Nur eine Richtung lernen (Anki->Extras->Auswahlstapel erstellen->Suche `"deck:Hanyu Shuiping Kaoshi" card:Hanzi (is:due OR is:new)`)
-* Spezielle Level und eine Richtung (Anki->Extras->Auswahlstapel erstellen->Suche `"deck:Hanyu Shuiping Kaoshi" card:Hanzi (tag:Buch_2::Kapitel_4 OR tag:Buch_2::Kapitel_5) (is:due OR is:new)`)
+* Spezielle Level und eine Richtung (Anki->Extras->Auswahlstapel erstellen->Suche `"deck:Hanyu Shuiping Kaoshi" card:Hanzi (tag:hsk1 OR tag:hsk2) (is:due OR is:new)`)
 
 <br>
 

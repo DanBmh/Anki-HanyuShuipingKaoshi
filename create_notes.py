@@ -79,7 +79,7 @@ def main():
                         break
                 if tone != "":
                     break
-            pinyin_text += tone_template.format(tone, p)
+            pinyin_text += tone_template.format(tone, p.lower()) + " "
 
         # Add a comment without tones to simplify searching the finished deck file
         pinyin_comment = entry["pinyin"]
